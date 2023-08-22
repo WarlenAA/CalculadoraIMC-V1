@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="muito_abaixo_do_peso">Muito abaixo do peso</string>
+    <string name="abaixo_do_peso">Abaixo do peso</string>
+    <string name="peso_ideal_parabens">Peso ideal - Parabéns!</string>
+    <string name="seu_peso_esta_otimo_continue_assim">Seu peso está ótimo, continue assim!</string>
+    <string name="levemente_acima_do_peso">Levemente acima do peso</string>
+    <string name="obesidade_grau_i">Obesidade grau I</string>
+    <string name="obesidade_grau_ii_severa">Obesidade grau II - Severa</string>
+    <string name="obesidade_grau_iii_m_bida">Obesidade grau III - Móbida</string>
+    <string name="insira_os_dados_solicitados">Insira os dados solicitados</string>
+    <string name="seu_peso_ideal_deve_estar_entre">"Seu peso ideal deve estar entre "</string>
+
+</resources>
